@@ -1,2 +1,3 @@
 # Tic-tac-toe
-tic tac toe game
+Tic tac toe game
+this is created using html css javascript
